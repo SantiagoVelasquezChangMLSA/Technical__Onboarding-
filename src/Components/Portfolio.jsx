@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pic4.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Creation of students review website in Tec de Monterrey",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a friendly website that provide students a way to rate college classes and professors",
+    url: "https://github.com/SantiagoVelasquezChangMLSA/ecoa",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Update and Maintainance of Courses Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed in the maintainance and modifying of the website of courses for professionals",
+    url: "https://github.com/SantiagoVelasquezChangMLSA/Servicio-Becario",
   },
   {
-    title: "My Resume Site",
+    title: "App Nuevo Amanecer",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Contributed in the creation of the app for an association that helps kids with disabilities learn ",
+    url: "https://github.com/SantiagoVelasquezChangMLSA/Login-Signup",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Interconecction of Devices",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Contributed in the creation of a simulation of a network in packet tracer for a building and all related to the business",
+    url: "https://youtu.be/YrJ4jm5QBP0?si=qziAhRwzYusZyf5x",
   },
 ];
 
